@@ -68,7 +68,7 @@ PM Board follows a strict specification-first development process:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/pm-board-experiment.git
+   git clone https://github.com/vibe-code-inc/pm-board-experiment.git
    cd pm-board-experiment
    ```
 
